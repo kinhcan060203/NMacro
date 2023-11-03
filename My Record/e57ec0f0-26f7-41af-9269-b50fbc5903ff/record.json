@@ -1,0 +1,27 @@
+{
+    "record_detail": {
+        "record_name": "dsadasdad",
+        "folder_located": "e57ec0f0-26f7-41af-9269-b50fbc5903ff",
+        "description": "asdasdsad\n",
+        "upload_timestamp": "2023-09-22 13:18",
+        "modified_timestamp": "xxxx-xx-xx xx:xx",
+        "profile_user": "Profile 2",
+        "exec_command": [
+            "start\n",
+            "#1|https://www.google.com/|{'TAG_NAME': '', 'ID': '', 'CLASS_NAME': '', 'NAME': '', 'VALUE': '', 'CONTENT': '', 'EVENT': 'changeURL', 'TEXT': 'Thay \u0111\u1ed5i t\u1edbi \u0111\u01b0\u1eddng link: https://www.google.com/'}\n",
+            "#1|https://fap.fpt.edu.vn/|{'TAG_NAME': '', 'ID': '', 'CLASS_NAME': '', 'NAME': '', 'VALUE': '', 'CONTENT': '', 'EVENT': 'changeURL', 'TEXT': 'Thay \u0111\u1ed5i t\u1edbi \u0111\u01b0\u1eddng link: https://fap.fpt.edu.vn/'}\n",
+            "#1|https://fap.fpt.edu.vn/Phuhuynh/Login.aspx|{'TAG_NAME': 'a', 'ID': '', 'CLASS_NAME': '', 'NAME': '', 'VALUE': 'Phuhuynh/Login.aspx', 'CONTENT': '\u0110\u0103ng nh\u1eadp', 'TEXT': 'Nh\u1ea5n link: \u0110\u0103ng nh\u1eadp', 'EVENT': 'click'}\n",
+            "#1||{'TAG_NAME': 'input', 'ID': 'ctl00_mainContent_txtUser', 'CLASS_NAME': 'input-block-level', 'NAME': 'ctl00$mainContent$txtUser', 'VALUE': 'dsadsa', 'CONTENT': '', 'TEXT': 'Nh\u1eadp t\u00ean \u0111\u0103ng nh\u1eadp: dsadsa', 'EVENT': 'input'}\n",
+            "#1||{'TAG_NAME': 'input', 'ID': 'ctl00_mainContent_txtPass', 'CLASS_NAME': 'input-block-level', 'NAME': 'ctl00$mainContent$txtPass', 'VALUE': 'dasdsad', 'CONTENT': '', 'TEXT': 'Nh\u1eadp m\u1eadt kh\u1ea9u: dasdsad', 'EVENT': 'input'}\n",
+            "#1||{'TAG_NAME': 'input', 'ID': 'ctl00_mainContent_txtUser', 'CLASS_NAME': 'input-block-level', 'NAME': 'ctl00$mainContent$txtUser', 'VALUE': 'dsadsasadsad', 'CONTENT': '', 'TEXT': 'Nh\u1eadp t\u00ean \u0111\u0103ng nh\u1eadp: dsadsasadsad', 'EVENT': 'input'}\n",
+            "#1||{'TAG_NAME': 'input', 'ID': 'ctl00_mainContent_txtPass', 'CLASS_NAME': 'input-block-level', 'NAME': 'ctl00$mainContent$txtPass', 'VALUE': 'dasdsadasdas', 'CONTENT': '', 'TEXT': 'Nh\u1eadp m\u1eadt kh\u1ea9u: dasdsadasdas', 'EVENT': 'input'}\n",
+            "#1||{'TAG_NAME': 'input', 'ID': 'ctl00_mainContent_txtUser', 'CLASS_NAME': 'input-block-level', 'NAME': 'ctl00$mainContent$txtUser', 'VALUE': 'dsadsasadsaddasd', 'CONTENT': '', 'TEXT': 'Nh\u1eadp t\u00ean \u0111\u0103ng nh\u1eadp: dsadsasadsaddasd', 'EVENT': 'input'}\n",
+            "#1||{'TAG_NAME': 'select', 'ID': 'ctl00_mainContent_dllCampus', 'CLASS_NAME': '', 'NAME': 'ctl00$mainContent$dllCampus', 'VALUE': '5', 'CONTENT': '\\n--Ch\u1ecd--\\nFU-H\u00f2a L\u1ea1c\\nFU-H\u1ed3 Ch\u00ed Mih\\nFU-\u0110\u00e0 N\u1eb5g\\nFU-C\u1ea7 Th\u01a1\\nFU-Quy Nh\u01a1\\n', 'TEXT': 'Ch\u1ecdn: fu-\u0111\u00e0 n\u1eb5ng', 'EVENT': 'click'}\n",
+            "#1||{'TAG_NAME': 'input', 'ID': 'ctl00_mainContent_chkRemember', 'CLASS_NAME': '', 'NAME': 'ctl00$mainContent$chkRemember', 'VALUE': 'on', 'CONTENT': '', 'TEXT': 'Nh\u1ea5n n\u00fat: on', 'EVENT': 'click', 'URL': ''}\n",
+            "#1||{'TAG_NAME': 'input', 'ID': 'ctl00_mainContent_chkRemember', 'CLASS_NAME': '', 'NAME': 'ctl00$mainContent$chkRemember', 'VALUE': 'on', 'CONTENT': '', 'TEXT': 'Nh\u1ea5n n\u00fat: on', 'EVENT': 'click', 'URL': ''}\n",
+            "#1||{'TAG_NAME': 'input', 'ID': 'ctl00_mainContent_chkRemember', 'CLASS_NAME': '', 'NAME': 'ctl00$mainContent$chkRemember', 'VALUE': 'on', 'CONTENT': '', 'TEXT': 'Nh\u1ea5n n\u00fat: on', 'EVENT': 'click', 'URL': ''}\n",
+            "#1||{'TAG_NAME': 'input', 'ID': 'ctl00_mainContent_btLogin', 'CLASS_NAME': '', 'NAME': 'ctl00$mainContent$btLogin', 'VALUE': '\u0110\u0103ng nh\u1eadp', 'CONTENT': '', 'TEXT': 'Nh\u1ea5n n\u00fat: \u0110\u0103ng nh\u1eadp', 'EVENT': 'click', 'URL': ''}\n",
+            "end\n"
+        ]
+    }
+}

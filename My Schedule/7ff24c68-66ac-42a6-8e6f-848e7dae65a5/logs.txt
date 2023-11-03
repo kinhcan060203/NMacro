@@ -1,0 +1,16 @@
+#1|2023-09-05 09:34:03.119078|start|Completed
+#1|2023-09-05 09:34:04.289144|#1|https://www.google.com/|{'TAG_NAME': '', 'ID': '', 'CLASS_NAME': '', 'NAME': '', 'VALUE': '', 'CONTENT': '', 'EVENT': 'changeURL', 'TEXT': 'Thay đổi tới đường link: https://www.google.com/'}|Completed
+#1|2023-09-05 09:34:05.222688|#1|https://fap.fpt.edu.vn/|{'TAG_NAME': '', 'ID': '', 'CLASS_NAME': '', 'NAME': '', 'VALUE': '', 'CONTENT': '', 'EVENT': 'changeURL', 'TEXT': 'Thay đổi tới đường link: https://fap.fpt.edu.vn/'}|Completed
+#1|2023-09-05 09:34:05.938845|#1|https://fap.fpt.edu.vn/Phuhuynh/Login.aspx|{'TAG_NAME': 'a', 'ID': '', 'CLASS_NAME': '', 'NAME': '', 'VALUE': 'Phuhuynh/Login.aspx', 'CONTENT': 'Đăng nhập', 'TEXT': 'Nhấn link: Đăng nhập', 'EVENT': 'click'}|Completed
+#1|2023-09-05 09:34:06.298913|#1||{'TAG_NAME': 'input', 'ID': 'ctl00_mainContent_txtUser', 'CLASS_NAME': 'input-block-level', 'NAME': 'ctl00$mainContent$txtUser', 'VALUE': 'dfdsf', 'CONTENT': '', 'TEXT': 'Nhập tên đăng nhập: dfdsf', 'EVENT': 'input'}|Completed
+#1|2023-09-05 09:34:06.458095|#1||{'TAG_NAME': 'input', 'ID': 'ctl00_mainContent_txtPass', 'CLASS_NAME': 'input-block-level', 'NAME': 'ctl00$mainContent$txtPass', 'VALUE': 'dfdsfds', 'CONTENT': '', 'TEXT': 'Nhập mật khẩu: dfdsfds', 'EVENT': 'input'}|Completed
+#1|2023-09-05 09:34:06.601836|end|Completed
+
+#2|2023-09-05 09:34:08.948982|start|Completed
+#2|2023-09-05 09:34:14.177852|#1|https://www.google.com/|{'TAG_NAME': '', 'ID': '', 'CLASS_NAME': '', 'NAME': '', 'VALUE': '', 'CONTENT': '', 'EVENT': 'changeURL', 'TEXT': 'Thay đổi tới đường link: https://www.google.com/'}|Completed
+#2|2023-09-05 09:34:14.874358|#1|https://fap.fpt.edu.vn/|{'TAG_NAME': '', 'ID': '', 'CLASS_NAME': '', 'NAME': '', 'VALUE': '', 'CONTENT': '', 'EVENT': 'changeURL', 'TEXT': 'Thay đổi tới đường link: https://fap.fpt.edu.vn/'}|Completed
+#2|2023-09-05 09:34:16.501392|#1|https://fap.fpt.edu.vn/Phuhuynh/Login.aspx|{'TAG_NAME': 'a', 'ID': '', 'CLASS_NAME': '', 'NAME': '', 'VALUE': 'Phuhuynh/Login.aspx', 'CONTENT': 'Đăng nhập', 'TEXT': 'Nhấn link: Đăng nhập', 'EVENT': 'click'}|Completed
+#2|2023-09-05 09:34:16.935595|#1||{'TAG_NAME': 'input', 'ID': 'ctl00_mainContent_txtUser', 'CLASS_NAME': 'input-block-level', 'NAME': 'ctl00$mainContent$txtUser', 'VALUE': 'dfdsf', 'CONTENT': '', 'TEXT': 'Nhập tên đăng nhập: dfdsf', 'EVENT': 'input'}|Completed
+#2|2023-09-05 09:34:17.092946|#1||{'TAG_NAME': 'input', 'ID': 'ctl00_mainContent_txtPass', 'CLASS_NAME': 'input-block-level', 'NAME': 'ctl00$mainContent$txtPass', 'VALUE': 'dfdsfds', 'CONTENT': '', 'TEXT': 'Nhập mật khẩu: dfdsfds', 'EVENT': 'input'}|Completed
+#2|2023-09-05 09:34:17.261665|end|Completed
+

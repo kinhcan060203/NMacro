@@ -1,0 +1,31 @@
+{
+    "schedule_detail": {
+        "folder_located": "4cef92dc-f451-4024-be61-6b4ad7dcc745",
+        "profile_user": "Profile 2",
+        "upload_timestamp": "2023-09-05 09:02",
+        "modified_timestamp": "xxxx-xx-xx xx:xx",
+        "finished_timestamp": "xxxx-xx-xx xx:xx",
+        "exec_command": [
+            "start\n",
+            "#1|https://www.google.com/|{'TAG_NAME': '', 'ID': '', 'CLASS_NAME': '', 'NAME': '', 'VALUE': '', 'CONTENT': '', 'EVENT': 'changeURL', 'TEXT': 'Thay \u0111\u1ed5i t\u1edbi \u0111\u01b0\u1eddng link: https://www.google.com/'}\n",
+            "#1|https://fap.fpt.edu.vn/|{'TAG_NAME': '', 'ID': '', 'CLASS_NAME': '', 'NAME': '', 'VALUE': '', 'CONTENT': '', 'EVENT': 'changeURL', 'TEXT': 'Thay \u0111\u1ed5i t\u1edbi \u0111\u01b0\u1eddng link: https://fap.fpt.edu.vn/'}\n",
+            "#1|https://fap.fpt.edu.vn/Phuhuynh/Login.aspx|{'TAG_NAME': 'a', 'ID': '', 'CLASS_NAME': '', 'NAME': '', 'VALUE': 'Phuhuynh/Login.aspx', 'CONTENT': '\u0110\u0103ng nh\u1eadp', 'TEXT': 'Nh\u1ea5n link: \u0110\u0103ng nh\u1eadp', 'EVENT': 'click'}\n",
+            "#1||{'TAG_NAME': 'input', 'ID': 'ctl00_mainContent_txtUser', 'CLASS_NAME': 'input-block-level', 'NAME': 'ctl00$mainContent$txtUser', 'VALUE': 'dasd', 'CONTENT': '', 'TEXT': 'Nh\u1eadp t\u00ean \u0111\u0103ng nh\u1eadp: dasd', 'EVENT': 'input'}\n",
+            "#1||{'TAG_NAME': 'input', 'ID': 'ctl00_mainContent_txtPass', 'CLASS_NAME': 'input-block-level', 'NAME': 'ctl00$mainContent$txtPass', 'VALUE': 'sdasdasd', 'CONTENT': '', 'TEXT': 'Nh\u1eadp m\u1eadt kh\u1ea9u: sdasdasd', 'EVENT': 'input'}\n",
+            "#1||{'TAG_NAME': 'select', 'ID': 'ctl00_mainContent_dllCampus', 'CLASS_NAME': '', 'NAME': 'ctl00$mainContent$dllCampus', 'VALUE': '5', 'CONTENT': '\\n--Ch\u1ecd--\\nFU-H\u00f2a L\u1ea1c\\nFU-H\u1ed3 Ch\u00ed Mih\\nFU-\u0110\u00e0 N\u1eb5g\\nFU-C\u1ea7 Th\u01a1\\nFU-Quy Nh\u01a1\\n', 'TEXT': 'Ch\u1ecdn: fu-\u0111\u00e0 n\u1eb5ng', 'EVENT': 'click'}\n",
+            "#1||{'TAG_NAME': 'input', 'ID': 'ctl00_mainContent_chkRemember', 'CLASS_NAME': '', 'NAME': 'ctl00$mainContent$chkRemember', 'VALUE': 'on', 'CONTENT': '', 'TEXT': 'Nh\u1ea5n n\u00fat: on', 'EVENT': 'click', 'URL': ''}\n",
+            "end\n"
+        ],
+        "schedule_name": "asdsad_#3",
+        "is_scheduled": "no",
+        "execute_timestamp": "2023-09-05 09:02",
+        "spacing": 0.0,
+        "runtime": 1,
+        "logs_status": {
+            "Log 1": "Waiting"
+        },
+        "status": "Waiting",
+        "notify_type": "None",
+        "note": "\n"
+    }
+}

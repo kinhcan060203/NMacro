@@ -1,0 +1,40 @@
+#1|2023-08-28 18:43:49.613317|start|Completed
+#1|2023-08-28 18:43:50.918360|#1|https://www.google.com/|{'TAG_NAME': '', 'ID': '', 'CLASS_NAME': '', 'NAME': '', 'VALUE': '', 'CONTENT': '', 'EVENT': 'changeURL', 'TEXT': 'Thay đổi tới đường link: https://www.google.com/'}|Completed
+#1|2023-08-28 18:43:51.505350|#1|https://fap.fpt.edu.vn/|{'TAG_NAME': '', 'ID': '', 'CLASS_NAME': '', 'NAME': '', 'VALUE': '', 'CONTENT': '', 'EVENT': 'changeURL', 'TEXT': 'Thay đổi tới đường link: https://fap.fpt.edu.vn/'}|Completed
+#1|2023-08-28 18:43:51.997428|#1|https://fap.fpt.edu.vn/Phuhuynh/Login.aspx|{'TAG_NAME': 'a', 'ID': '', 'CLASS_NAME': '', 'NAME': '', 'VALUE': 'Phuhuynh/Login.aspx', 'CONTENT': 'Đăng nhập', 'TEXT': 'Nhấn link: Đăng nhập', 'EVENT': 'click'}|Completed
+#1|2023-08-28 18:43:52.431400|#1||{'TAG_NAME': 'input', 'ID': 'ctl00_mainContent_txtUser', 'CLASS_NAME': 'input-block-level', 'NAME': 'ctl00$mainContent$txtUser', 'VALUE': 'dasd', 'CONTENT': '', 'TEXT': 'Nhập tên đăng nhập: dasd', 'EVENT': 'input'}|Completed
+#1|2023-08-28 18:43:52.577482|#1||{'TAG_NAME': 'input', 'ID': 'ctl00_mainContent_txtPass', 'CLASS_NAME': 'input-block-level', 'NAME': 'ctl00$mainContent$txtPass', 'VALUE': 'sdasdasd', 'CONTENT': '', 'TEXT': 'Nhập mật khẩu: sdasdasd', 'EVENT': 'input'}|Completed
+#1|2023-08-28 18:43:52.708595|#1||{'TAG_NAME': 'select', 'ID': 'ctl00_mainContent_dllCampus', 'CLASS_NAME': '', 'NAME': 'ctl00$mainContent$dllCampus', 'VALUE': '5', 'CONTENT': '\n--Chọ--\nFU-Hòa Lạc\nFU-Hồ Chí Mih\nFU-Đà Nẵg\nFU-Cầ Thơ\nFU-Quy Nhơ\n', 'TEXT': 'Chọn: fu-đà nẵng', 'EVENT': 'click'}|Completed
+#1|2023-08-28 18:43:52.901532|#1||{'TAG_NAME': 'input', 'ID': 'ctl00_mainContent_chkRemember', 'CLASS_NAME': '', 'NAME': 'ctl00$mainContent$chkRemember', 'VALUE': 'on', 'CONTENT': '', 'TEXT': 'Nhấn nút: on', 'EVENT': 'click', 'URL': ''}|Completed
+#1|2023-08-28 18:43:53.176286|end|Completed
+
+#2|2023-08-28 18:43:55.436386|start|Completed
+#2|2023-08-28 18:44:00.866594|#1|https://www.google.com/|{'TAG_NAME': '', 'ID': '', 'CLASS_NAME': '', 'NAME': '', 'VALUE': '', 'CONTENT': '', 'EVENT': 'changeURL', 'TEXT': 'Thay đổi tới đường link: https://www.google.com/'}|Completed
+#2|2023-08-28 18:44:02.073460|#1|https://fap.fpt.edu.vn/|{'TAG_NAME': '', 'ID': '', 'CLASS_NAME': '', 'NAME': '', 'VALUE': '', 'CONTENT': '', 'EVENT': 'changeURL', 'TEXT': 'Thay đổi tới đường link: https://fap.fpt.edu.vn/'}|Completed
+#2|2023-08-28 18:44:03.079139|#1|https://fap.fpt.edu.vn/Phuhuynh/Login.aspx|{'TAG_NAME': 'a', 'ID': '', 'CLASS_NAME': '', 'NAME': '', 'VALUE': 'Phuhuynh/Login.aspx', 'CONTENT': 'Đăng nhập', 'TEXT': 'Nhấn link: Đăng nhập', 'EVENT': 'click'}|Completed
+#2|2023-08-28 18:44:03.706270|#1||{'TAG_NAME': 'input', 'ID': 'ctl00_mainContent_txtUser', 'CLASS_NAME': 'input-block-level', 'NAME': 'ctl00$mainContent$txtUser', 'VALUE': 'dasd', 'CONTENT': '', 'TEXT': 'Nhập tên đăng nhập: dasd', 'EVENT': 'input'}|Completed
+#2|2023-08-28 18:44:03.868474|#1||{'TAG_NAME': 'input', 'ID': 'ctl00_mainContent_txtPass', 'CLASS_NAME': 'input-block-level', 'NAME': 'ctl00$mainContent$txtPass', 'VALUE': 'sdasdasd', 'CONTENT': '', 'TEXT': 'Nhập mật khẩu: sdasdasd', 'EVENT': 'input'}|Completed
+#2|2023-08-28 18:44:04.000042|#1||{'TAG_NAME': 'select', 'ID': 'ctl00_mainContent_dllCampus', 'CLASS_NAME': '', 'NAME': 'ctl00$mainContent$dllCampus', 'VALUE': '5', 'CONTENT': '\n--Chọ--\nFU-Hòa Lạc\nFU-Hồ Chí Mih\nFU-Đà Nẵg\nFU-Cầ Thơ\nFU-Quy Nhơ\n', 'TEXT': 'Chọn: fu-đà nẵng', 'EVENT': 'click'}|Completed
+#2|2023-08-28 18:44:04.218982|#1||{'TAG_NAME': 'input', 'ID': 'ctl00_mainContent_chkRemember', 'CLASS_NAME': '', 'NAME': 'ctl00$mainContent$chkRemember', 'VALUE': 'on', 'CONTENT': '', 'TEXT': 'Nhấn nút: on', 'EVENT': 'click', 'URL': ''}|Completed
+#2|2023-08-28 18:44:04.520786|end|Completed
+
+#3|2023-08-28 18:44:06.931722|start|Completed
+#3|2023-08-28 18:44:12.716817|#1|https://www.google.com/|{'TAG_NAME': '', 'ID': '', 'CLASS_NAME': '', 'NAME': '', 'VALUE': '', 'CONTENT': '', 'EVENT': 'changeURL', 'TEXT': 'Thay đổi tới đường link: https://www.google.com/'}|Completed
+#3|2023-08-28 18:44:13.258586|#1|https://fap.fpt.edu.vn/|{'TAG_NAME': '', 'ID': '', 'CLASS_NAME': '', 'NAME': '', 'VALUE': '', 'CONTENT': '', 'EVENT': 'changeURL', 'TEXT': 'Thay đổi tới đường link: https://fap.fpt.edu.vn/'}|Completed
+#3|2023-08-28 18:44:13.966598|#1|https://fap.fpt.edu.vn/Phuhuynh/Login.aspx|{'TAG_NAME': 'a', 'ID': '', 'CLASS_NAME': '', 'NAME': '', 'VALUE': 'Phuhuynh/Login.aspx', 'CONTENT': 'Đăng nhập', 'TEXT': 'Nhấn link: Đăng nhập', 'EVENT': 'click'}|Completed
+#3|2023-08-28 18:44:14.337130|#1||{'TAG_NAME': 'input', 'ID': 'ctl00_mainContent_txtUser', 'CLASS_NAME': 'input-block-level', 'NAME': 'ctl00$mainContent$txtUser', 'VALUE': 'dasd', 'CONTENT': '', 'TEXT': 'Nhập tên đăng nhập: dasd', 'EVENT': 'input'}|Completed
+#3|2023-08-28 18:44:14.497280|#1||{'TAG_NAME': 'input', 'ID': 'ctl00_mainContent_txtPass', 'CLASS_NAME': 'input-block-level', 'NAME': 'ctl00$mainContent$txtPass', 'VALUE': 'sdasdasd', 'CONTENT': '', 'TEXT': 'Nhập mật khẩu: sdasdasd', 'EVENT': 'input'}|Completed
+#3|2023-08-28 18:44:14.613737|#1||{'TAG_NAME': 'select', 'ID': 'ctl00_mainContent_dllCampus', 'CLASS_NAME': '', 'NAME': 'ctl00$mainContent$dllCampus', 'VALUE': '5', 'CONTENT': '\n--Chọ--\nFU-Hòa Lạc\nFU-Hồ Chí Mih\nFU-Đà Nẵg\nFU-Cầ Thơ\nFU-Quy Nhơ\n', 'TEXT': 'Chọn: fu-đà nẵng', 'EVENT': 'click'}|Completed
+#3|2023-08-28 18:44:14.787155|#1||{'TAG_NAME': 'input', 'ID': 'ctl00_mainContent_chkRemember', 'CLASS_NAME': '', 'NAME': 'ctl00$mainContent$chkRemember', 'VALUE': 'on', 'CONTENT': '', 'TEXT': 'Nhấn nút: on', 'EVENT': 'click', 'URL': ''}|Completed
+#3|2023-08-28 18:44:14.989356|end|Completed
+
+#4|2023-08-28 18:44:17.650056|start|Error
+#4|2023-08-28 18:44:24.427759|#1|https://www.google.com/|{'TAG_NAME': '', 'ID': '', 'CLASS_NAME': '', 'NAME': '', 'VALUE': '', 'CONTENT': '', 'EVENT': 'changeURL', 'TEXT': 'Thay đổi tới đường link: https://www.google.com/'}|Error
+#4|2023-08-28 18:44:24.462100|#1|https://fap.fpt.edu.vn/|{'TAG_NAME': '', 'ID': '', 'CLASS_NAME': '', 'NAME': '', 'VALUE': '', 'CONTENT': '', 'EVENT': 'changeURL', 'TEXT': 'Thay đổi tới đường link: https://fap.fpt.edu.vn/'}|Error
+#4|2023-08-28 18:44:24.506299|#1|https://fap.fpt.edu.vn/Phuhuynh/Login.aspx|{'TAG_NAME': 'a', 'ID': '', 'CLASS_NAME': '', 'NAME': '', 'VALUE': 'Phuhuynh/Login.aspx', 'CONTENT': 'Đăng nhập', 'TEXT': 'Nhấn link: Đăng nhập', 'EVENT': 'click'}|Error
+#4|2023-08-28 18:44:24.547747|#1||{'TAG_NAME': 'input', 'ID': 'ctl00_mainContent_txtUser', 'CLASS_NAME': 'input-block-level', 'NAME': 'ctl00$mainContent$txtUser', 'VALUE': 'dasd', 'CONTENT': '', 'TEXT': 'Nhập tên đăng nhập: dasd', 'EVENT': 'input'}|Error
+#4|2023-08-28 18:44:24.580733|#1||{'TAG_NAME': 'input', 'ID': 'ctl00_mainContent_txtPass', 'CLASS_NAME': 'input-block-level', 'NAME': 'ctl00$mainContent$txtPass', 'VALUE': 'sdasdasd', 'CONTENT': '', 'TEXT': 'Nhập mật khẩu: sdasdasd', 'EVENT': 'input'}|Error
+#4|2023-08-28 18:44:24.611977|#1||{'TAG_NAME': 'select', 'ID': 'ctl00_mainContent_dllCampus', 'CLASS_NAME': '', 'NAME': 'ctl00$mainContent$dllCampus', 'VALUE': '5', 'CONTENT': '\n--Chọ--\nFU-Hòa Lạc\nFU-Hồ Chí Mih\nFU-Đà Nẵg\nFU-Cầ Thơ\nFU-Quy Nhơ\n', 'TEXT': 'Chọn: fu-đà nẵng', 'EVENT': 'click'}|Error
+#4|2023-08-28 18:44:24.657728|#1||{'TAG_NAME': 'input', 'ID': 'ctl00_mainContent_chkRemember', 'CLASS_NAME': '', 'NAME': 'ctl00$mainContent$chkRemember', 'VALUE': 'on', 'CONTENT': '', 'TEXT': 'Nhấn nút: on', 'EVENT': 'click', 'URL': ''}|Error
+#4|2023-08-28 18:44:24.695703|end|Completed
+

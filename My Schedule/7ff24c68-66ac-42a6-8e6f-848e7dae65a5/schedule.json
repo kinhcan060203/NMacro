@@ -1,0 +1,30 @@
+{
+    "schedule_detail": {
+        "folder_located": "7ff24c68-66ac-42a6-8e6f-848e7dae65a5",
+        "profile_user": "Profile 2",
+        "upload_timestamp": "2023-09-05 09:34",
+        "modified_timestamp": "xxxx-xx-xx xx:xx",
+        "finished_timestamp": "2023-09-05 09:34",
+        "exec_command": [
+            "start\n",
+            "#1|https://www.google.com/|{'TAG_NAME': '', 'ID': '', 'CLASS_NAME': '', 'NAME': '', 'VALUE': '', 'CONTENT': '', 'EVENT': 'changeURL', 'TEXT': 'Thay \u0111\u1ed5i t\u1edbi \u0111\u01b0\u1eddng link: https://www.google.com/'}\n",
+            "#1|https://fap.fpt.edu.vn/|{'TAG_NAME': '', 'ID': '', 'CLASS_NAME': '', 'NAME': '', 'VALUE': '', 'CONTENT': '', 'EVENT': 'changeURL', 'TEXT': 'Thay \u0111\u1ed5i t\u1edbi \u0111\u01b0\u1eddng link: https://fap.fpt.edu.vn/'}\n",
+            "#1|https://fap.fpt.edu.vn/Phuhuynh/Login.aspx|{'TAG_NAME': 'a', 'ID': '', 'CLASS_NAME': '', 'NAME': '', 'VALUE': 'Phuhuynh/Login.aspx', 'CONTENT': '\u0110\u0103ng nh\u1eadp', 'TEXT': 'Nh\u1ea5n link: \u0110\u0103ng nh\u1eadp', 'EVENT': 'click'}\n",
+            "#1||{'TAG_NAME': 'input', 'ID': 'ctl00_mainContent_txtUser', 'CLASS_NAME': 'input-block-level', 'NAME': 'ctl00$mainContent$txtUser', 'VALUE': 'dfdsf', 'CONTENT': '', 'TEXT': 'Nh\u1eadp t\u00ean \u0111\u0103ng nh\u1eadp: dfdsf', 'EVENT': 'input'}\n",
+            "#1||{'TAG_NAME': 'input', 'ID': 'ctl00_mainContent_txtPass', 'CLASS_NAME': 'input-block-level', 'NAME': 'ctl00$mainContent$txtPass', 'VALUE': 'dfdsfds', 'CONTENT': '', 'TEXT': 'Nh\u1eadp m\u1eadt kh\u1ea9u: dfdsfds', 'EVENT': 'input'}\n",
+            "end\n"
+        ],
+        "schedule_name": "dfdsffds_#1",
+        "is_scheduled": "no",
+        "execute_timestamp": "2023-09-05 09:34",
+        "spacing": 0.0,
+        "runtime": 2,
+        "logs_status": {
+            "Log 1": "Completed",
+            "Log 2": "Completed"
+        },
+        "status": "Completed",
+        "notify_type": "None",
+        "note": "dvdsfdsf\n"
+    }
+}
